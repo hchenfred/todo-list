@@ -4,7 +4,7 @@ $("li").click(function() {
 });
 
 $("span").click(function() {
-	alert("click an span");
+	alert("click an span !");
 });
 
 
